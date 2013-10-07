@@ -1,3 +1,9 @@
+jzmq (3.0.0-1) precise; urgency=low
+  * Fix issue #250
+  * Fix issue #252
+
+ -- Trevor Bernard <trevor.bernard@gmail.com>  Mon, 07 Oct 2013 15:04:42 -0300
+
 jzmq (2.2.2-1) precise; urgency=low
   * Fix issue #241 - Fix travis-ci build
   * Update the appropriate build files to the correct version
