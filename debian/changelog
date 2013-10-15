@@ -1,3 +1,9 @@
+jzmq (3.0.2-1) precise; urgency=low
+
+  * WIP
+
+ -- Trevor Bernard <trevor.bernard@gmail.com>  Tue, 15 Oct 2013 11:36:14 -0300
+
 jzmq (3.0.0-1) precise; urgency=low
   * Fix issue #250
   * Fix issue #252
